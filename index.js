@@ -23,3 +23,12 @@ function myName (firstName, lastName){     //A function is created with two para
     console.log(firstName + " " + lastName);    //Content of the function.
 }
 myName("Sajid", "Hussain");            // Function has been called by passing two arguments.
+
+function doCalculations (a, b){
+    console.log(a+b);
+    console.log(a-b);
+    console.log(a*b);
+    console.log(a/b);
+
+}
+doCalculations(10, 2);
