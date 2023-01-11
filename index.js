@@ -11,7 +11,7 @@ this keyword
 4- Make 4 Methods Which Takes 2 Parameters And Do Addition,Subtraction,Multiplication And Division
 */
 
-let companyDetails = new Object(); //An empty Object (companyDetails) is created using new keyword. 
+let companyDetails = new Object(); //An empty Object (companyDetails) is created using new Object keyword. 
 companyDetails.companyName ="MAG Engineering";  //First property and it's value given.
 companyDetails.services ="Engineering design and construction services"; //Second property and it's value given.
 companyDetails.location = "110 DHA Lahore, Main Boulevard"; //Third property and it's value given.
