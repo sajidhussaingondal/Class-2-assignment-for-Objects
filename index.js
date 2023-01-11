@@ -16,6 +16,12 @@ companyDetails.companyName ="MAG Engineering";  //First property and it's value 
 companyDetails.services ="Engineering design and construction services"; //Second property and it's value given.
 companyDetails.location = "110 DHA Lahore, Main Boulevard"; //Third property and it's value given.
 companyDetails.ManagingDirector = "SAJID HUSSAIN"; //Third property and it's value given.
+companyDetails.completedProjects = function(){
+console.log("1-Multistory residential bilding, covered area = 20340 square feet."); 
+console.log("2-Multistory commercial bilding, covered area = 10000 square feet."); 
+console.log("3-ten number of houses, each house covered area = 2500 square feet."); 
+}
+// completedProjects();
 console.log(companyDetails); //Object (companyDetails) printed in console window of browser.
 
 
