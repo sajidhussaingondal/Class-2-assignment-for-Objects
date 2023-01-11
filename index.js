@@ -24,7 +24,7 @@ function myName (firstName, lastName){     //A function is created with two para
 }
 myName("Sajid", "Hussain");            // Function has been called by passing two arguments.
 
-function doCalculations (a, b){
+function doCalculations (a, b){  //A function is created with two parameters in small braces.
     console.log(a+b);
     console.log(a-b);
     console.log(a*b);
